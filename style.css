@@ -1,0 +1,17 @@
+body {
+    color:crimson;
+    background: pink;
+}
+
+.heading {
+background-color: gold;
+width: 80%;
+border: 5px solid deeppink;
+border-radius: 30px;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
